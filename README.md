@@ -10,7 +10,7 @@
 
 📫 [Email](mailto:kevinoconnell42@gmail.com) is the best place to reach out!
 
-⚡ Fun fact: In prior lives, I failed at becoming a professional musician, content creator and photographer. I'm also ambidextrous. Not sure which fact is cooler ¯\_(ツ)_/¯.
+⚡ Fun facts: In prior lives, I failed at becoming a professional musician, content creator and photographer. I'm also ambidextrous. Not sure which fact is cooler ¯\_(ツ)_/¯.
 
 ### Languages/Frameworks/Libraries:
 
