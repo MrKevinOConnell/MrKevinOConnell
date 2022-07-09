@@ -2,15 +2,15 @@
 
 📚 I am graduating in August with a BS in Computer Science from [Marquette University](https://www.marquette.edu/) (Go Golden Eagles!).
 
-💼 I’m looking for a job as a Full-Stack Engineer currently 😊
+💼 I’m looking for a job as a Full-Stack Engineer currently 😊.
 
-🔭 In my free time I'm involved in [Nouns](https://nouns.wtf/) and [NewShades](https://app.newshades.xyz/)
+🔭 In my free time I'm involved in [Nouns](https://nouns.wtf/) and [NewShades](https://app.newshades.xyz/).
 
 🌱 I’m currently expanding my knowledge on [Solidity](https://soliditylang.org/).
 
 📫 [Email](mailto:kevinoconnell42@gmail.com) is the best place to reach out!
 
-⚡ Fun fact: In prior lives, I failed at becoming a professional musician, content creator and photographer. I'm also ambidextrous. Not sure which fact is cooler ¯\_(ツ)_/¯
+⚡ Fun fact: In prior lives, I failed at becoming a professional musician, content creator and photographer. I'm also ambidextrous. Not sure which fact is cooler ¯\_(ツ)_/¯.
 
 ### Languages/Frameworks/Libraries:
 
