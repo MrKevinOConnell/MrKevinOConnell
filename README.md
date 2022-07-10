@@ -4,8 +4,6 @@
 
 💼 I’m looking for a job as a Full-Stack Engineer currently 😊.
 
-🔭 In my free time I'm involved in [Nouns](https://nouns.wtf/) and [NewShades](https://app.newshades.xyz/).
-
 🌱 I’m currently expanding my knowledge on [Solidity](https://soliditylang.org/).
 
 📫 [Email](mailto:kevinoconnell42@gmail.com) is the best place to reach out!
