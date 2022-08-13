@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📚 Graduated with a BS in Computer Science from [Marquette University](https://www.marquette.edu/) (Go Golden Eagles!).
+📚 I Graduated with a BS in Computer Science from [Marquette University](https://www.marquette.edu/) (Go Golden Eagles!).
 
 💼 I’m looking for a job as a Full-Stack Engineer currently 😊.
 
